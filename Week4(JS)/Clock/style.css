@@ -1,0 +1,23 @@
+body {
+  background-color:grey;
+}
+
+h1{ color: #black;
+    font-size: 80px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+    text-align center;
+   }
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #black;
+    font-size: 80px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+   
+
+
+}
