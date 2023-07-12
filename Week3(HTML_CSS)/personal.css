@@ -1,0 +1,28 @@
+/* centering the image and adding margins*/
+img{
+    float:left;
+    width:180px;
+    height:200px;
+    margin-right:20px;
+    margin-left:15px;
+}
+
+/*changing the font to sans-serif*/
+body{
+    font-family:"Arial", Arial, sans-serif;
+}
+
+/*aligning the heading to center*/
+h1{
+    text-align:center;
+}
+
+/* when hovered above a link in the page it changes colors*/
+a:hover{
+    color:aqua
+}
+
+/*chaing color of eastern via span*/
+span{
+    color:green;
+}
